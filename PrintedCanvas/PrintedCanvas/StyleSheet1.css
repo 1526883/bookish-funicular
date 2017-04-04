@@ -81,6 +81,13 @@ ul li a:hover{
     padding-left: 5px;
    
 }
+
+/*Reference: http://stackoverflow.com/questions/15684357/how-can-i-add-a-hover-effect-to-icons-with-css */
+
+#footer2 img:hover{
+    opacity: 0.5;
+
+}
  #footer2 p {
      color: #000000;
 
@@ -154,10 +161,74 @@ ul li a:hover{
 
 .Text5 p{
     font-size: 20px;
+    margin-top: 20px;
 
 
 }
+.Text6 p {
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    color: crimson;
+    margin-top: 30px;
+    margin-left: 20px;
+  
    
+}
+
+.Text7 img{
+    width: 130px;
+    height: 80px;
+   margin-left: 150px;
+   margin-top: 10px;
+}
+
+.Text7 p{
+  float: right;
+    font-size: 16px;
+    font-weight: bold;
+    color: crimson;
+    margin-top: 30px;
+    margin-right: 60px;
+}
+
+
+.Text8 img{
+    width: 130px;
+    height: 80px;
+    margin-top: 90px;
+    float: left;
+    margin-left: -12%;
+
+}
+
+.Text8 p{
+    
+   float: left;
+    font-size: 16px;
+    font-weight: bold;
+    color: crimson;
+    margin-top: 96px;
+    margin-left: 20px;
+  
+   
+}
+.Text9 img{
+    width: 140px;
+    height: 80px;
+   margin-left: 50px;
+   margin-top: 90px;
+}
+
+.Text9 p{
+    float: right;
+    font-size: 16px;
+    font-weight: bold;
+    color: crimson;
+    margin-top: 10%;
+    margin-right: 100px;
+}
+
 
 .content{
     width:100%;
