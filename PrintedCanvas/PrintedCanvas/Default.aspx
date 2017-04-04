@@ -67,16 +67,21 @@
     
      <div class="Text8">
 
- <p>HIGH QUALITY MATERIALS 
-            <br /> backed by 100% satisfaction guarantee.<br /></p>
-
+ 
       <img src="Images/material canvas.jpg" class="Material" alt="Img-materialcanvas" />
+    </div>
 
+    <div class="Text8">
+            <p>HIGH QUALITY MATERIALS 
+            <br /> backed by 100% satisfaction <br />guarantee.<br /></p>
+     </div>
      
+    <div class="Text9">
+        <img src="Images/free-delivery.jpg" class="Delivery" alt="Img-delivery" />
+        <p>$10 rate shipping and FREE DELIVERY <br /> if above $50</p>
+    </div>
 
+    
 
-
-  </div>
-     
     
 </asp:Content>
