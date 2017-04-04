@@ -160,7 +160,7 @@ ul li a:hover{
 }
 
 .Text5 p{
-    font-size: 20px;
+    font-size: 16px;
     margin-top: 20px;
 
 
@@ -252,7 +252,7 @@ ul li a:hover{
     padding-top: 15px;
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 15px;
+    font-size: 16px;
     padding-left: 30px;
     width:1000px;
   
@@ -333,7 +333,7 @@ ul li a:hover{
     cursor: pointer; 
 }
 
-.map_iframe{
+.map img{
     margin-left: 30px;
     margin-top: 20px;
     width: 500px;
