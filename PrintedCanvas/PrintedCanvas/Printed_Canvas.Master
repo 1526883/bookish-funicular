@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Printed_Canvas.master.cs" Inherits="PrintedCanvas.Printed_Canvas" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+
+        Printed Canvas
+    </title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" media="screen" runat="server" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+   
+    </head>
+
+<body>
+
+    <form id="form1" runat="server">
+        <div id="wrapper">
+            <div id="Banner">
+
+
+            </div>
+     
+            <nav> 
+                 <ul>
+                <li><a href="Default.aspx">Home</a></li>
+                <li><a href="Printed.aspx">Printed</a></li>
+                <li><a href="#">Galaxy</a></li>
+                <li><a href="#">Payment</a></li>
+                <li><a href="Contact Us.aspx">Contact Us</a></li>
+                <li><a href="Login.aspx">Login</a></li>   
+                </ul>
+                 </nav>
+    
+        <div class="content">
+        <asp:ContentPlaceHolder id="contentbody" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+   </div>
+        
+
+   <div id="footer">
+        <div id="footer1">        
+      
+      <p>
+      &copy; Craftify, Printed Canvas 2017 
+
+ </p>
+
+            </div>
+
+
+          <div id="footer2">  
+            <p>
+      Share us on <a href="https://www.facebook.com/"><img src="Images/fb%20logo.png" alt="Facebook_logo"></a>
+          <a href="https://www.instagram.com/"><img src="Images/ig%20logo.png" alt="Instagram_logo"></a>
+           <a href="https://twitter.com/?lang=en"><img src="Images/twitter%20icon%20lgo.png" alt="Twitter_logo"></a>
+           
+            </p>
+              <p>
+                
+                 <a href="http://validator.w3.org/check?uri=referer">Validate HTML</a> |
+      <a href="http://jigsaw.w3.org/css-validator/check/referer">Validate CSS</a>
+     
+      </p>
+  </div>
+</div>
+
+
+
+      
+    </form>
+</body>
+</html>
