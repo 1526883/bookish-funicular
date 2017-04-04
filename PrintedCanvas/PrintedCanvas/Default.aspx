@@ -53,13 +53,13 @@
 
         <div class="Text6">
  
-         <p>Cash on delivery</p>
+         <p>CASH ON DELIVERY</p>
 
         </div>
 
     <div class="Text7">
         <img src="Images/Fast Service.png" class="Service" alt="Img-Fastservice" />
-        <p>Fast Service <br /> We do  in as little as 5-10 business days.<br /></p>
+        <p>FAST SERVICE <br /> We do delivery as 5-14 business days.<br /></p>
             
        
 </div>
@@ -73,7 +73,7 @@
 
     <div class="Text8">
             <p>HIGH QUALITY MATERIALS 
-            <br /> backed by 100% satisfaction <br />guarantee.<br /></p>
+            <br />100% satisfication guarantee <br /></p>
      </div>
      
     <div class="Text9">
