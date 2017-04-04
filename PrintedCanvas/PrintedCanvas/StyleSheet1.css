@@ -1,6 +1,6 @@
 ﻿
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 15px;
     padding: 0px;
     margin: 0px;
@@ -90,19 +90,61 @@ ul li a:hover{
     color: #eee4e4;
 
 }
-
-article p {
-    padding-top:20px;
-    display: block;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 15px;
-    width: 90%;
-    padding-left: 40px;
+.Text{
+    border: 2px solid #e6acac;
+    width: 29%;
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 74px;
+   
 
 }
+
+.Text p{
+    font-size: 25px;
+    font-weight: lighter;
+    text-align: center;
+    
+    
+}
+
+#Text2{
+    margin-top: 50px;
+    font-size: 16px;
+    margin-left: 35px;
+
+
+}
+
+#Text3{
+    font-size: 16px;
+   margin-left: 20%;
+}
+
+.Text4{
+    border: 2px solid #e6acac;
+    width: 28%;
+    margin-left: 30px;
+    margin-top: 90px;
+    height: 74px;
+}
+
+.Text4 p {
+        font-size: 25px;
+        font-weight: lighter;
+        text-align: center;
+}
+
+.Text5{
+    font-size: 16px;
+   margin-left: 10%;
+   
+
+}
+
 .content{
     width:100%;
-    min-height: 800px;
+    min-height: 1500px;
     border: 2px solid darkgray;
     background-color: white;
     
@@ -177,7 +219,7 @@ article p {
     margin-top: 20px;
     width:100%; 
     padding:5px 8px;
-    font-family:Georgia, Times, "Times New Roman", serif ;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 }
 
 .Contact_form input:focus, .Contact_form textarea:focus {
@@ -218,4 +260,5 @@ h4{
   padding-left: 30px;
 
 }
+
 
