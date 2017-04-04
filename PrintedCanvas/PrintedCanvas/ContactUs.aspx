@@ -10,10 +10,10 @@
  
     <div class="contentText2">
 
-      <p><em>If you have a question, drop a comment below and we will answer your contact request as soon as possible! 
+      <p>If you have a question, drop a comment below and we will answer your contact request as soon as possible! 
           You can also leave a message on our Twitter, Facebook and Gmail at craftifycanvas@gmail.com!
           
-       </em></p>
+       </p>
 
 
     </div>
@@ -32,7 +32,7 @@
         <div class="Message_form">
         
         <label>Message:</label> 
-    <textarea name="message" cols="80" rows="10" placeholder="Your message..">
+    <textarea name="message" cols="80" rows="10">
 
     </textarea>
 </div>
@@ -45,7 +45,7 @@
           <h4> View location here</h4>  
 
         <div class="map">
-       <img src="Images/map.jpg" alt="Img-map"/>
+       <a href="#"><img src="Images/map.jpg" alt="Img-map" /></a>
 
               
  </div> 
