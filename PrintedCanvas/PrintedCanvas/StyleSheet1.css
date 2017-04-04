@@ -143,6 +143,22 @@ ul li a:hover{
 
 }
 
+.Text5 img{
+    width: 130px;
+    height: 80px;
+    margin-top: 20px;
+    float: left;
+    
+    
+}
+
+.Text5 p{
+    font-size: 20px;
+
+
+}
+   
+
 .content{
     width:100%;
     min-height: 1500px;
