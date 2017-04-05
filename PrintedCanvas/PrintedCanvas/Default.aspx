@@ -58,7 +58,7 @@
         </div>
 
     <div class="Text7">
-        <img src="Images/Fast Service.png" class="Service" alt="Img-Fastservice" />
+        <img src="Images/FastService.png" class="Service" alt="Img-Fastservice" />
         <p>FAST SERVICE <br /> We do delivery as 5-14 business days.<br /></p>
             
        
