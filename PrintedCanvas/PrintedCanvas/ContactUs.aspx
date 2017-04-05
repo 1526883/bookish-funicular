@@ -46,8 +46,8 @@
 
         <div class="map">
        <a href="#"><img src="Images/map.jpg" alt="Img-map" /></a>
-
-              
+            
+             
  </div> 
             
 </asp:Content>
