@@ -25,11 +25,11 @@
      
             <nav> 
                  <ul>
-                <li><a href="Default.aspx">Home</a></li>
-                <li><a href="Products.aspx">Printed</a></li>
-                <li><a href="#">Payment</a></li>
-                <li><a href="ContactUs.aspx">Contact Us</a></li>
-                <li><a href="Login.aspx">Login</a></li>   
+                <li><a href="~/Default.aspx" runat="server">Home</a></li>
+                <li><a href="~/Products.aspx" runat="server">Printed</a></li>
+                <li><a href="~/Payment.aspx" runat="server">Payment</a></li>
+                <li><a href="~/ContactUs.aspx" runat="server">Contact Us</a></li>
+                <li><a href="~/Login.aspx" runat="server">Login</a></li>   
                 </ul>
                  </nav>
     
@@ -56,9 +56,9 @@
           <div id="footer2">  
             <p>
 
-      Share us on <a href="https://www.facebook.com/"><img src="Images/fb%20logo.png" alt="Facebook_logo"></a>
-          <a href="https://www.instagram.com/"><img src="Images/ig%20logo.png" alt="Instagram_logo"></a>
-           <a href="https://twitter.com/?lang=en"><img src="Images/twitter%20icon%20lgo.png" alt="Twitter_logo"></a>
+      Share us on <a href="https://www.facebook.com/"><img src="Images/fb logo.png" alt="Facebook_logo"></a>
+          <a href="https://www.instagram.com/"><img src="Images/ig logo.png" alt="Instagram_logo"></a>
+           <a href="https://twitter.com/?lang=en"><img src="Images/twitter icon lgo.png" alt="Twitter_logo"></a>
            
             </p>
 
