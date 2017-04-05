@@ -68,7 +68,7 @@
      <div class="Text8">
 
  
-      <img src="Images/material canvas.jpg" class="Material" alt="Img-materialcanvas" />
+      <img src="" class="Material" alt="Img-materialcanvas" />
     </div>
 
     <div class="Text8">
