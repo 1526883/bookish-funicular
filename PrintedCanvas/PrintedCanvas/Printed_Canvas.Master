@@ -26,7 +26,7 @@
             <nav> 
                  <ul>
                 <li><a href="~/Default.aspx" runat="server">Home</a></li>
-                <li><a href="~/Products.aspx" runat="server">Printed</a></li>
+                <li><a href="~/Products.aspx" runat="server">Products</a></li>
                 <li><a href="~/Payment.aspx" runat="server">Payment</a></li>
                 <li><a href="~/ContactUs.aspx" runat="server">Contact Us</a></li>
                 <li><a href="~/Login.aspx" runat="server">Login</a></li>   
@@ -49,7 +49,7 @@
       &copy; Craftify, Printed Canvas 2017 
 
  </p>
-
+            
             </div>
 
 
