@@ -5,14 +5,10 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="contentbody" runat="server">
  
-    <div id="Img_gallery_title">
-        <p>Create a look at home that’s all your own with customizable wall décor and more. 
-            Complement your favorite photo with a piece from our growing collection of fine artwork.</p>
-
-
-    </div>
-    
-    <div class="Img_gallery">
+    <div class="container">
+        <section>
+        <div class="Img_gallery">
+        
 
      <ul>
          <li><img src="Products/birds.jpg" /></li>
@@ -24,8 +20,9 @@
 
      </ul>
 
-
- </div>
+</div>
+</section>
+</div>
 
 
 
