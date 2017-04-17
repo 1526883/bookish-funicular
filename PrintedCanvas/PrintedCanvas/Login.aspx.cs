@@ -11,7 +11,21 @@ namespace PrintedCanvas
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Username_tb.Focus();
         }
+
+        protected void loginbtn_Click(object sender, EventArgs e)
+        {
+            if(Username_tb.Text == "user" && Password_tb.Text == "pass")
+            {
+                loginbtn.Text = "Correct!"
+            }
+            else
+            {
+                loginbtn.Text = "Wrong!"
+            }
+        }
+
+
     }
 }
