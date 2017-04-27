@@ -12,6 +12,8 @@
 
     </div>
            <!--Reference : https://www.youtube.com/watch?v=_NCmxWCvV0o&t=547s -->
+
+
         <div class="Contact_form">
             <div class="name_text">
         <label>Name:</label>
@@ -27,6 +29,9 @@
             <div class="subject_text">
         <label>Subject:</label>
             <asp:TextBox ID="subject_textb" runat="server" Placeholder="Enter subject"></asp:TextBox>
+            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Subject is required!" ControlToValidate="subject_textb" ForeColor="Red"></asp:RequiredFieldValidator>
+         
+
             </div>
 
 
