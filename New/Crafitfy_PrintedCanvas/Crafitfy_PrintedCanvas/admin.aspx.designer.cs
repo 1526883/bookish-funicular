@@ -7,36 +7,45 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PrintedCanvas {
+namespace Crafitfy_PrintedCanvas {
     
     
-    public partial class ContactUs {
+    public partial class admin {
         
         /// <summary>
-        /// FNameTB control.
+        /// Uname_tb control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox FNameTB;
+        protected global::System.Web.UI.WebControls.TextBox Uname_tb;
         
         /// <summary>
-        /// LNameTB control.
+        /// Pword_tb control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox LNameTB;
+        protected global::System.Web.UI.WebControls.TextBox Pword_tb;
         
         /// <summary>
-        /// EmailTB control.
+        /// log_inbtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox EmailTB;
+        protected global::System.Web.UI.WebControls.Button log_inbtn;
+        
+        /// <summary>
+        /// lbl_adminlogin control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_adminlogin;
     }
 }
